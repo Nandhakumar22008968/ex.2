@@ -25,8 +25,12 @@ The result is that combinational logic circuits have no feedback, and any change
 5.	For different input combinations, generate the timing diagram.
 
 ## Simplification:
+![Screenshot 2023-05-30 173039](https://github.com/Nandhakumar22008968/ex.2/assets/129037794/ae4a20d5-3768-407b-af4e-a63cc24adbe8)
+![Screenshot 2023-05-30 173126](https://github.com/Nandhakumar22008968/ex.2/assets/129037794/3c01c2d9-ca15-41f3-81aa-b15287a84766)
+
 
 ## Truth Table:
+
 
 ## Program:
 ~~~
