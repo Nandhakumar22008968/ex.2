@@ -58,7 +58,8 @@ endmodule
 
 
 ## RTL Schematic:
-![Screenshot_20230526_085919](https://github.com/Nandhakumar22008968/ex.2/assets/129037794/e1ab6668-337f-4eca-8086-b2680fd7a41b)
+![image](https://github.com/Nandhakumar22008968/ex.2/assets/129037794/6db246d4-dbca-4178-990e-138087f92b0f)
+
 
 
 
